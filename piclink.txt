@@ -1,1 +1,1 @@
-https://woshilaijiajun.github.io/PythonKingShop/ebook.png
+https://woshilaijiajun.github.io/PythonKingShop/ebook.png||https://woshilaijiajun.github.io/PythonKingShop/codeex.png
